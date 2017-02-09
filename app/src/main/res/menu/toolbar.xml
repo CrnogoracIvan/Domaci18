@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/dodavanje_jela"
+        android:title="@string/dodavanje_jela"
+        android:icon="@drawable/ic_dodavanje_jela"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/izmena_jela"
+        android:title="@string/izmena_jela"
+        android:icon="@drawable/ic_izmena_jela"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/brisanje_jela"
+        android:title="@string/brsianje_jela"
+        android:icon="@drawable/ic_brisanje_jela"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
