@@ -5,26 +5,26 @@
     density="tvdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="5939577927606"
+    timestamp="6915612456672"
     token="-657813123231518972"
-    verifier="MANIFEST_FILE_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1002" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="125" />
+        duration="0" />
     <task
         name="verifier"
-        duration="5" />
+        duration="0" />
 
     <artifact
-        location="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         timestamp="5939577927606"
@@ -32,6 +32,13 @@
         <artifact
             location="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="6915612456672"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

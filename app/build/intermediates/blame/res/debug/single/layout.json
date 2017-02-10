@@ -60,16 +60,8 @@
         "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/list_fragment_layaout.xml",
-        "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/src/main/res/layout/list_fragment_layaout.xml"
-    },
-    {
         "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/list_item.xml",
-        "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/src/main/res/layout/list_item.xml"
     },
     {
         "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
@@ -126,10 +118,6 @@
     {
         "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
@@ -198,10 +186,6 @@
     {
         "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
         "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/fragment_detailed.xml",
-        "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/src/main/res/layout/fragment_detailed.xml"
     },
     {
         "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",

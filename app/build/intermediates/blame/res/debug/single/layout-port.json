@@ -1,21 +1,5 @@
 [
     {
-        "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout-port/fragment_detailed.xml",
-        "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/src/main/res/layout-port/fragment_detailed.xml"
-    },
-    {
-        "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout-port/activity_main.xml",
-        "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/src/main/res/layout-port/activity_main.xml"
-    },
-    {
-        "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout-port/list_fragment_layaout.xml",
-        "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/src/main/res/layout-port/list_fragment_layaout.xml"
-    },
-    {
-        "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout-port/list_item.xml",
-        "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/src/main/res/layout-port/list_item.xml"
-    },
-    {
         "merged": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/res/merged/debug/layout-port/second_activity.xml",
         "source": "/home/androiddevelopment/CrnogoracIvan/Domaci18/app/src/main/res/layout-port/second_activity.xml"
     }
