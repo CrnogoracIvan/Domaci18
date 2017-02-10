@@ -2,112 +2,76 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_ee77ebc3f8a46c69843d6c798c96858ddd7305dd.jar" />
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_0ab6da70e054825a9243c7420a8b70048ecfe8af/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_d7ababd09013b233ee4e631c7ab212db1d5c3308.jar" />
+        sha1="dee2d57a9d40cd81546456d23d1c92ba2eca5fc9">
+        <dex dex="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39c56ab4ffd8a00e46f67550a8cacbd3a9a88eb4/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        is-multidex="true"
+        jar="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="52c59896dd540d62b925d8c2e53ab333424abdcd">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\instant-run_2944c21a663d0d4b3d78750d26ea117aa077703d.jar" />
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_5c8cf7d93bfcfd3c5ab65ccf281e69a52b81acf1/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_147acbbde8eb5fee0ca14301691ec1922782d089.jar" />
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_f9b18988f5cb160b95d36ec2ea66fb0c63308ccc/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        is-multidex="true"
+        jar="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_9b7816f8016247d3d9385c1f321eaaf8ae797a48/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="/home/androiddevelopment/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7a207b3794f3b42f7013edc3cf76e9ec7a9d3fdb">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7b2c1d12657f63f41672693541a47193fe45ea6b.jar" />
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_0da63309a522192f8b2852f8eb921d696f0e30b0/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_2fed305a057121a0f8247496f1f5d15cdd047fbe.jar" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_0febda4926f4d956fd7ca247846f7e2a7e448a7b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        is-multidex="true"
+        jar="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_b7c44631b7671696e23bc69f692d33e8dfa72bc2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_8e56b873b9302f9a99c2e771637d1cac5eec55b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_9f28c7bb94ea549697492b5b631f0c83ec5563db.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_2dca9152309304503f6a85e152329e869fa6bf22.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Users\Ivan Crnogorac\Desktop\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_6e715fd07295d5171834d046f2d7220e7bfa393c.jar" />
+        sha1="795427a6735d80a87d896c637d5bb60c48384a6d">
+        <dex dex="/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_11c432a9ac7f3ab6bc9f07d0658ff106ca853383/classes.dex" />
     </item>
 
 </items>

@@ -1,4 +1,7 @@
-#Thu Feb 09 23:43:54 CET 2017
-base.0=C\:\\Users\\Ivan Crnogorac\\Desktop\\Domaci17\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\Ivan Crnogorac\\Desktop\\Domaci17\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Fri Feb 10 19:29:04 CET 2017
+base.0=/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39c56ab4ffd8a00e46f67550a8cacbd3a9a88eb4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_11c432a9ac7f3ab6bc9f07d0658ff106ca853383/classes.dex
+base.1=/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_11c432a9ac7f3ab6bc9f07d0658ff106ca853383
+file.0=/home/androiddevelopment/CrnogoracIvan/Domaci18/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39c56ab4ffd8a00e46f67550a8cacbd3a9a88eb4/classes.dex
